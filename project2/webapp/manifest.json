@@ -36,6 +36,16 @@
             "parameters": {},
             "additionalParameters": "allowed"
           }
+        },
+        "project2-display": {
+          "semanticObject": "project2",
+          "action": "display",
+          "title": "{{flpTitle}}",
+          "subTitle": "{{flpSubtitle}}",
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          }
         }
       }
     }
