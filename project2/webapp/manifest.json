@@ -17,26 +17,6 @@
     },
     "crossNavigation": {
       "inbounds": {
-        "Project 2-display": {
-          "semanticObject": "Project 2",
-          "action": "display",
-          "title": "{{flpTitle}}",
-          "subTitle": "{{flpSubtitle}}",
-          "signature": {
-            "parameters": {},
-            "additionalParameters": "allowed"
-          }
-        },
-        "project 2-display": {
-          "semanticObject": "project 2",
-          "action": "display",
-          "title": "{{flpTitle}}",
-          "subTitle": "{{flpSubtitle}}",
-          "signature": {
-            "parameters": {},
-            "additionalParameters": "allowed"
-          }
-        },
         "project2-display": {
           "semanticObject": "project2",
           "action": "display",
